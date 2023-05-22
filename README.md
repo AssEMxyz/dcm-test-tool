@@ -1,5 +1,5 @@
 # dcm-test-tool
-ASUSAR (Graduation Project): DCM Test tool
+ASUSAR v2 (Graduation Project): DCM Test tool
 
 Tool Startup:
 
